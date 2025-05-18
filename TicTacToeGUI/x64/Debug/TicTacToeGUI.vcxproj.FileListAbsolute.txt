@@ -1,0 +1,3 @@
+C:\Users\sin\Documents\CPlusPlus\TicTacToeGUI\TicTacToeGUI\x64\Debug\TicTacToeGUI.vcxproj.AssemblyReference.cache
+C:\Users\sin\Documents\CPlusPlus\TicTacToeGUI\TicTacToeGUI\x64\Debug\TicTacToeGUI.MyForm.resources
+C:\Users\sin\Documents\CPlusPlus\TicTacToeGUI\TicTacToeGUI\x64\Debug\TicTacToeGUI.vcxproj.GenerateResource.cache
